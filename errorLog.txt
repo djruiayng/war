@@ -1,0 +1,1057 @@
+
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'data'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] Couldn't find a tree builder with the features you requested: html5lib. Do you need to install a parser library?
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response',))
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] ('Connection aborted.', ConnectionAbortedError(103, 'Software caused connection abort'))
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.nadya.naver.jp', port=80): Max retries exceeded with url: /0hgYPMqLg4OHZtNBT__TpHIVFxNhsaGj4-FQJ3ERo3NhNFAn5zVAFwREAyZU5EASsgUVd2QB00b05A/vp (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f51bb00>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] Download file failure.
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'line' is not defined
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.nadya.naver.jp', port=80): Max retries exceeded with url: /0hgYPMqLg4OHZtNBT__TpHIVFxNhsaGj4-FQJ3ERo3NhNFAn5zVAFwREAyZU5EASsgUVd2QB00b05A (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7f020550>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.nadya.naver.jp', port=80): Max retries exceeded with url: /0hgYPMqLg4OHZtNBT__TpHIVFxNhsaGj4-FQJ3ERo3NhNFAn5zVAFwREAyZU5EASsgUVd2QB00b05A (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa8c8c978>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'Nadya' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'target'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.nadya.naver.jp', port=80): Max retries exceeded with url: /0hB1aKTOS3HR5cMjH-ruxiSWB3E3MrHBtWJFJQcClnQyhzUF9AMFBUfnE1Syt1BlwcYQNaLH4wFiYm (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f9f00c780>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'target'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.nadya.naver.jp', port=80): Max retries exceeded with url: /0h_4fZc9DCABtbIyzuNnp_TGdmDnYsDQZTI0EfKHcmXS1xFkZNbhUcLix3Wi5zQBdJNxcYeCkmWX4m (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fa84bccc0>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] name 'message' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'message' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] name 'message' is not defined
+[<module 'time' (built-in)>] name 'message' is not defined
+[<module 'time' (built-in)>] name 'message' is not defined
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'target'
+[<module 'time' (built-in)>] local variable 'target' referenced before assignment
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] local variable 'target' referenced before assignment
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendText'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'mid'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] Required argument 'status' (pos 1) not found
+[<module 'time' (built-in)>] Required argument 'status' (pos 1) not found
+[<module 'time' (built-in)>] local variable 'admin' referenced before assignment
+[<module 'time' (built-in)>] local variable 'admin' referenced before assignment
+[<module 'time' (built-in)>] local variable 'admin' referenced before assignment
+[<module 'time' (built-in)>] local variable 'admin' referenced before assignment
+[<module 'time' (built-in)>] name 'msg' is not defined
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] local variable 'K0' referenced before assignment
+[<module 'time' (built-in)>] HTTPConnectionPool(host='dl.profile.cl.naver.jp', port=80): Max retries exceeded with url: /0hITGKF4USFnt6Mjrt3IVpLEZ3GBYNHBAzAgBYHFhgTE5eUQZ6EQYLSF4xGkwHAlIpFFUKSFhnTxxU (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f91d2cac8>: Failed to establish a new connection: [Errno 7] No address associated with hostname',))
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayName'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] 'copy'
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayname'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayname'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayname'
+[<module 'time' (built-in)>] 'str' object has no attribute 'displayname'
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'getContect'
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'protect'
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid size of contactIds', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'matched_list' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket mismatched: 0, qDBncX-L9M', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket mismatched: 0, sF_tcR9ipI', parameterMap=None)
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c5102edf9076611c3335486d007155a82', parameterMap={'2': 'c5102edf9076611c3335486d007155a82'})
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'param'
+[<module 'time' (built-in)>] 'Operation' object has no attribute 'param'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket mismatched: 0, Nd0D-3L4Fr', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket mismatched: 0, Rqe60LKql2', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket mismatched: 0, k3Ma95wUtz', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=3, reason='no contact: ue5307a57828d98ac31faf166fecb6b16', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cfafdcefea713d6403e6a6cc2f95ed4cc', parameterMap={'2': 'cfafdcefea713d6403e6a6cc2f95ed4cc'})
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c0af8ce403ccea534c56a964bfd2dea38', parameterMap={'2': 'c0af8ce403ccea534c56a964bfd2dea38'})
+[<module 'time' (built-in)>] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] TalkException(code=8, reason='AUTHENTICATION_DIVESTED_BY_OTHER_DEVICE', parameterMap=None)
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] name 'Owner' is not defined
+[<module 'time' (built-in)>] name 'Owner' is not defined
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] [Errno 103] Software caused connection abort
+[<module 'time' (built-in)>] [Errno 7] No address associated with hostname
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] name 'owner' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] name 'radom' is not defined
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'blacklist'
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'sendmessage'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] name 'KAC' is not defined
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'bots' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'bots' is not defined
+[<module 'time' (built-in)>] name 'bots' is not defined
+[<module 'time' (built-in)>] name 'bots' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] name 'bots' is not defined
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cecf853dd4683ed47bd5c55c8aafbe2ad', parameterMap={'2': 'cecf853dd4683ed47bd5c55c8aafbe2ad'})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] name 'mmtext' is not defined
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] list.remove(x): x not in list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cecf853dd4683ed47bd5c55c8aafbe2ad', parameterMap={'2': 'cecf853dd4683ed47bd5c55c8aafbe2ad'})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cecf853dd4683ed47bd5c55c8aafbe2ad', parameterMap={'2': 'cecf853dd4683ed47bd5c55c8aafbe2ad'})
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'bool' object is not callable
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cecf853dd4683ed47bd5c55c8aafbe2ad', parameterMap={'2': 'cecf853dd4683ed47bd5c55c8aafbe2ad'})
+[<module 'time' (built-in)>] local variable 'msg' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: caf78074342f7d11a4dcdc196f2f53ef3', parameterMap={'2': 'caf78074342f7d11a4dcdc196f2f53ef3'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cbf6b765ce6d0498a555dc9f24d08dfb6', parameterMap={'2': 'cbf6b765ce6d0498a555dc9f24d08dfb6'})
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] encoding without a string argument
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: 'Dicker'
+[<module 'time' (built-in)>] 'u992a6e77041a772b8abd613ea64d4623'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid contactIds', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7e69d5297028d6d4b7a3b1bb4b510ac0', parameterMap={'2': 'c7e69d5297028d6d4b7a3b1bb4b510ac0'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7e69d5297028d6d4b7a3b1bb4b510ac0', parameterMap={'2': 'c7e69d5297028d6d4b7a3b1bb4b510ac0'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7e69d5297028d6d4b7a3b1bb4b510ac0', parameterMap={'2': 'c7e69d5297028d6d4b7a3b1bb4b510ac0'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7e69d5297028d6d4b7a3b1bb4b510ac0', parameterMap={'2': 'c7e69d5297028d6d4b7a3b1bb4b510ac0'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7e69d5297028d6d4b7a3b1bb4b510ac0', parameterMap={'2': 'c7e69d5297028d6d4b7a3b1bb4b510ac0'})
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[0] local variable 'times' referenced before assignment
+[0] local variable 'times' referenced before assignment
+[0] local variable 'times' referenced before assignment
+[0] local variable 'times' referenced before assignment
+[0] local variable 'times' referenced before assignment
+[0] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] local variable 'times' referenced before assignment
+[<module 'time' (built-in)>] name 'times' is not defined
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] local variable 'sender' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: caf78074342f7d11a4dcdc196f2f53ef3', parameterMap={'2': 'caf78074342f7d11a4dcdc196f2f53ef3'})
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] TalkException(code=9, reason='Invalid groupMid', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] local variable 'G' referenced before assignment
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'dict' object has no attribute 'append'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'dict' object has no attribute 'append'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'dict' object has no attribute 'append'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] name 'Gid' is not defined
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'str' object has no attribute 'append'
+[<module 'time' (built-in)>] 'c7e69d5297028d6d4b7a3b1bb4b510ac0'
+[<module 'time' (built-in)>] 'gid'
+[<module 'time' (built-in)>] 'str' object has no attribute 'append'
+[<module 'time' (built-in)>] 'dict' object has no attribute 'append'
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'c7e69d5297028d6d4b7a3b1bb4b510ac0'
+[<module 'time' (built-in)>] 'c7e69d5297028d6d4b7a3b1bb4b510ac0'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'lower'
+[<module 'time' (built-in)>] 'c7e69d5297028d6d4b7a3b1bb4b510ac0'
+[<module 'time' (built-in)>] 'c7e69d5297028d6d4b7a3b1bb4b510ac0'
+[<module 'time' (built-in)>] name 'group' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=6, reason='Invalid length of text: ', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'c45d0e633d98b4716c526434b4aba5aa3'
+[<module 'time' (built-in)>] 'c45d0e633d98b4716c526434b4aba5aa3'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'c7ceae360b9c95e394be98182ab2a054b'
+[<module 'time' (built-in)>] 'MENTION'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'caffe5078db2045b56c7d8363674f6d65'
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'mid'
+[<module 'time' (built-in)>] invalid literal for int() with base 10: '(times)'
+[<module 'time' (built-in)>] 'u085311ecd9e3e3d74ae4c9f5437cbcb5'
+[<module 'time' (built-in)>] TalkException(code=0, reason='Invalid groupId', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='invalid mid', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] 'cd4d7d44766aeb0238336a309c35f275c'
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cd4d7d44766aeb0238336a309c35f275c', parameterMap={'2': 'cd4d7d44766aeb0238336a309c35f275c'})
+[<module 'time' (built-in)>] 'c116c935529b5701b86e7de3c512e9bb6'
+[<module 'time' (built-in)>] local variable 'a' referenced before assignment
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] choice() takes 2 positional arguments but 6 were given
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7ceae360b9c95e394be98182ab2a054b', parameterMap={'2': 'c7ceae360b9c95e394be98182ab2a054b'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7ceae360b9c95e394be98182ab2a054b', parameterMap={'2': 'c7ceae360b9c95e394be98182ab2a054b'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7ceae360b9c95e394be98182ab2a054b', parameterMap={'2': 'c7ceae360b9c95e394be98182ab2a054b'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c7ceae360b9c95e394be98182ab2a054b', parameterMap={'2': 'c7ceae360b9c95e394be98182ab2a054b'})
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] name 'settings' is not defined
+[<module 'time' (built-in)>] 'in <string>' requires string as left operand, not list
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1507006702, 746653639', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c116c935529b5701b86e7de3c512e9bb6', parameterMap={'2': 'c116c935529b5701b86e7de3c512e9bb6'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c116c935529b5701b86e7de3c512e9bb6', parameterMap={'2': 'c116c935529b5701b86e7de3c512e9bb6'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c116c935529b5701b86e7de3c512e9bb6', parameterMap={'2': 'c116c935529b5701b86e7de3c512e9bb6'})
+[<module 'time' (built-in)>] 'LINE' object has no attribute 'creatGroupPost'
+[<module 'time' (built-in)>] EOF occurred in violation of protocol (_ssl.c:833)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] 'int' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'int' object has no attribute 'acceptGroupInvitationByTicket'
+[<module 'time' (built-in)>] 'cd4d7d44766aeb0238336a309c35f275c'
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] local variable 'to' referenced before assignment
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: KzE0sU8c0T', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] local variable 'group' referenced before assignment
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c2cd0b6443705f46606eeabc83d3998c2', parameterMap={'2': 'c2cd0b6443705f46606eeabc83d3998c2'})
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] 'NoneType' object is not iterable
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] name 'bot' is not defined
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: EyJo7Jbq0o', parameterMap=None)
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] [Errno 104] Connection reset by peer
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=82, reason='types mismatch', parameterMap={})
+[<module 'time' (built-in)>] [Errno 110] Connection timed out
+[<module 'time' (built-in)>] [Errno 101] Network is unreachable
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1509212897, 772010041', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1509212897, 772010041', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1509212897, 772010041', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1509842473, 772010041', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1510377202, 769313669', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=5, reason='Ticket not found: h-ozHOPf_a', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1510733569, 772010831', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c660bb3fd51555ea79fdb4fe78c2ce7fc', parameterMap={'2': 'c660bb3fd51555ea79fdb4fe78c2ce7fc'})
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: c660bb3fd51555ea79fdb4fe78c2ce7fc', parameterMap={'2': 'c660bb3fd51555ea79fdb4fe78c2ce7fc'})
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=99, reason='group key member mismatch', parameterMap={})
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=73, reason='Prevented join by ticket: 1509379621, 772010041', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='not a member', parameterMap={})
+[<module 'time' (built-in)>] 'bool' object does not support item assignment
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='contactIds is null', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='contactIds is null', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='contactIds is null', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=0, reason='contactIds is null', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=82, reason='can not send using plain mode', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=35, reason='request blocked', parameterMap=None)
+[<module 'time' (built-in)>] 'dict' object has no attribute 'remove'
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] dictionary changed size during iteration
+[<module 'time' (built-in)>] TalkException(code=0, reason='contactIds is null', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=10, reason='You are not related to group: cbe52aef552e2e86d2e2d31703872aec3', parameterMap={'2': 'cbe52aef552e2e86d2e2d31703872aec3'})
+[<module 'time' (built-in)>] list.remove(x): x not in list
+[<module 'time' (built-in)>] 'getmid'
+[<module 'time' (built-in)>] 'getmid'
+[<module 'time' (built-in)>] 'getmid'
+[<module 'time' (built-in)>] Idle
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [SSL: BAD_LENGTH] bad length (_ssl.c:2130)
+[<module 'time' (built-in)>] Remote end closed connection without response
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'send'
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'makefile'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'makefile'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'makefile'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'makefile'
+[<module 'time' (built-in)>] 'NoneType' object has no attribute 'makefile'
+[<module 'time' (built-in)>] [Errno 9] Bad file descriptor
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] 
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
+[<module 'time' (built-in)>] TalkException(code=8, reason='EXPIRED', parameterMap=None)
