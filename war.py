@@ -1,33 +1,20 @@
 # -*- coding: utf-8 -*-
-from linepy import *
+from Linephu.linepy import *
+#from thrift import*
 from datetime import datetime
-from time import sleep
 from humanfriendly import format_timespan, format_size, format_number, format_length
-import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, ast, urllib, urllib.parse, timeit, _thread#, LineService
-botStart = time.time()
-tkn = json.load(codecs.open("tokens.json","r","utf-8"))
-cl = LINE(tkn["tokens"][0], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('主機-{} 登入成功 '.format(cl.profile.displayName))
-k1 = LINE(tkn["tokens"][1], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('1號機-{} 登入成功 '.format(k1.profile.displayName))
-k2 = LINE(tkn["tokens"][2], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('2號機-{} 登入成功 '.format(k2.profile.displayName))
-k3 = LINE(tkn["tokens"][3], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('3號機-{} 登入成功 '.format(k3.profile.displayName))
-k4 = LINE(tkn["tokens"][4], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('4號機-{} 登入成功 '.format(k4.profile.displayName))
-k5 = LINE(tkn["tokens"][5], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('5號機-{} 登入成功 '.format(k5.profile.displayName))
-js = LINE(tkn["tokens"][6], appName="IOS\t8.14.2\tIphone X\t8.1.0") 
-print('JS防-{} 登入成功 '.format(js.profile.displayName))
-print("登入所花時間為"+str(format_timespan(time.time() - botStart)))
-#ghost1 = LINE(tkn["tokens"][7], appName="IOS\t8.14.2\tIphone X\t8.1.0")
-#print('追加1-{} 登入成功 '.format(ghost1.profile.displayName))
-#ghost2 = LINE(tkn["tokens"][8], appName="IOS\t8.14.2\tIphone X\t8.1.0")
-#print('追加2-{} 登入成功 '.format(ghost2.profile.displayName))
-#ghost3 = LINE(tkn["tokens"][9], appName="IOS\t8.14.2\tIphone X\t8.1.0")
-#print('追加3-{} 登入成功 '.format(ghost3.profile.displayName))
+import time, random, sys, json, codecs, threading, glob, re, string, os, requests, subprocess, six, ast, pytz, urllib, urllib.parse
+import timeit
 
+botStart = time.time()
+cl = LINE("djry0416@gmail.com","djry9420")
+k1 = LINE("nolga3398@gmail.com","djry9420")
+k2 = LINE("og773030@gmail.com","djry9420")
+k3 = LINE("ogorinivic@gmail.com","djry9420")
+k4 = LINE("ogorinivic@gmail.com","djry9420")
+k5 = LINE("ogorinivic@gmail.com","djry9420")
+js = LINE("ogorinivic@gmail.com","djry9420")
+print ("[ 登錄系統 ]成功(  -᷄ω-᷅ )")
 clMID = cl.profile.mid
 k1MID = k1.profile.mid
 k2MID = k2.profile.mid
@@ -35,22 +22,16 @@ k3MID = k3.profile.mid
 k4MID = k4.profile.mid
 k5MID = k5.profile.mid
 jsMID = js.profile.mid
-
-
-set = {
-    "bot1":[k1,k2,k3,k4,k5],
-    "bots1":[clMID,k1MID,k2MID,k3MID,k4MID,k5MID,jsMID],
-    "limit":False
-}
-#for bot in set['bot1']+[cl]:
-#    for mid in [ghost1.profile.mid,ghost2.profile.mid,ghost3.profile.mid]:
-#        bot.findAndAddContactsByMid(mid)
-
-
+Bots = [clMID,k1MID,k2MID,k3MID,k4MID,k5MID,jsMID]
+god = ['uef65e5b0c7551b69df7d0c95da5a8a53']
 oepoll = OEPoll(cl)
-oepolls = OEPoll(js)
 
-ban = json.load(codecs.open("ban.json","r","utf-8"))
+banOpen = codecs.open("ban.json","r","utf-8")
+groupOpen = codecs.open("group.json","r","utf-8")
+proOpen = codecs.open("pro.json","r","utf-8")
+ban = json.load(banOpen)
+gp = json.load(groupOpen)
+pro = json.load(proOpen)
 #==============================================================================#
 def restartBot():
     print ("[ INFO ] BOT RESETTED")
@@ -188,8 +169,8 @@ wait = {
 
 if clMID not in ban["owners"]:
     ban["owners"].append(clMID)
-if "u082101166b78ecf25708406efb67b04b" not in ban["owners"]:
-    ban["owners"].append("u082101166b78ecf25708406efb67b04b")
+if "uef65e5b0c7551b69df7d0c95da5a8a53" not in ban["owners"]:
+    ban["owners"].append("uef65e5b0c7551b69df7d0c95da5a8a53")
 
 def lineBot(op):
     try:
